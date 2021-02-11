@@ -3,7 +3,7 @@
     "path": "~/GitHub/visualizacao-dados/visualizacao_dados.R",
     "project_path": "visualizacao_dados.R",
     "type": "r_source",
-    "hash": "194744902",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1612889003820.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "0,27",
+        "cursorPosition": "11,50",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1612889051,
+    "lastKnownWriteTime": 1612892276,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612889051826,
+    "last_content_update": 1612892278033,
     "read_only": false,
     "read_only_alternatives": []
 }

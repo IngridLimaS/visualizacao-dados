@@ -1,1 +1,12 @@
 ### Visalização de dados###
+
+install.packages("usethis")
+library(usethis)
+
+usethis::use_git_config(# Seu nome
+  user.name = "IngridLimaS", 
+  # Seu email
+  user.email = "ingrid.dslima@gmail.com")
+
+git config --global user.name "IngridLimaS"
+git config --global user.email ingrid.dslima@gmail
