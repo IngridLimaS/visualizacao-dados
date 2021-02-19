@@ -38,3 +38,8 @@ aves$fisionomia <- factor(aves$fisionomia, levels = c("CL", "CC", "Ce"))
 
 #Verificar valores
 str(aves)
+
+#Média e Mediana
+apply(X = aves[ ,2:4], MARGIN = 2, FUN = mean)
+apply(aves[ ,c("urubu", "carcara", "seriema")], 2, median)
+
