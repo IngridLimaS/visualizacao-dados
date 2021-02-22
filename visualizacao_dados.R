@@ -43,3 +43,11 @@ str(aves)
 apply(X = aves[ ,2:4], MARGIN = 2, FUN = mean)
 apply(aves[ ,c("urubu", "carcara", "seriema")], 2, median)
 
+summary(aves$urubu)
+
+#Histograma
+par(mfrow = c(2, 2))
+barplot(table(aves$urubu))
+hist(aves$urubu)
+
+
