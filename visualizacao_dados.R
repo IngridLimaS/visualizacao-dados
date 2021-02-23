@@ -49,7 +49,3 @@ summary(aves$urubu)
 par(mfrow = c(2, 2))
 barplot(table(aves$urubu))
 hist(aves$urubu)
-###Fim###
-
-
-
